@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pascalihub
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Data science
+- 🌱 I’m continuously learning Data science
 - 💞️ I’m looking to collaborate on data science project
 - 📫 How to reach me on social media
 
